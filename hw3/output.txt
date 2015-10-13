@@ -636,8 +636,8 @@ It	PRP
 a	DT
 little	RB
 hard	JJ
-to	IN
-parse	NN
+to	TO
+parse	VB
 ,	,
 but	CC
 at	IN
@@ -1594,7 +1594,7 @@ having	VBG
 the	DT
 old	JJ
 killer	NN
-strut	NN
+strut	VBN
 about	IN
 Miami	NNP
 ,	,
@@ -2236,7 +2236,7 @@ Church	NNP
 
 Tangipahoa	NNP
 Parish	NNP
-sheriff	NN
+sheriff	NNP
 's	POS
 deputy	JJ
 Christopher	NNP
@@ -2404,7 +2404,7 @@ papers	NNS
 ,	,
 showing	VBG
 him	PRP
-complicit	VB
+complicit	JJ
 in	IN
 the	DT
 airliner	NN
@@ -2478,7 +2478,7 @@ be	VB
 
 I	PRP
 like	VBP
-yuor	NN
+yuor	JJ
 blog	NN
 .	.
 
@@ -2516,10 +2516,10 @@ you	PRP
 can	MD
 check	VB
 it	PRP
-out	RP
+out	RB
 :	:
-los	NN
-angeles	VBZ
+los	NNP
+angeles	NNPS
 online	NNP
 dating	VBG
 
@@ -2683,7 +2683,7 @@ Do	VBP
 n't	RB
 Let	VB
 This	DT
-Pass	NN
+Pass	VB
 You	PRP
 By	IN
 Without	IN
@@ -3142,9 +3142,9 @@ may	MD
 have	VB
 been	VBN
 siphoned	VBN
-off	RB
+off	RP
 .	.
-"	)
+"	''
 
 This	DT
 year	NN
@@ -4227,7 +4227,7 @@ Poverty	NNP
 Law	NNP
 Center	NNP
 's	POS
-"	NNP
+"	CC
 Intelligence	NNP
 Report	NNP
 .	.
@@ -4305,7 +4305,7 @@ communities	NNS
 .	.
 "	)
 
-http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	NNP
+http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	NNS
 
 Maybe	RB
 I	PRP
@@ -4336,7 +4336,7 @@ tracking	VBG
 mechanism	NN
 in	IN
 place	NN
-"	NN
+"	)
 ?!?!?	.
 
 Never	RB
@@ -4482,7 +4482,7 @@ law	NN
 enforcement	NN
 has	VBZ
 dragged	VBN
-it's	VBP
+it's	PRP$
 feet	NNS
 when	WRB
 members	NNS
@@ -5155,7 +5155,7 @@ Massoud	NNP
 and	CC
 Maryam	NNP
 ,	,
-salute	VBD
+salute	VB
 them	PRP
 and	CC
 shout	NN
@@ -5225,7 +5225,7 @@ children	NNS
 were	VBD
 sent	VBN
 to	IN
-Mujahedeen	NNP
+Mujahedeen	JJ
 schools	NNS
 ,	,
 particularly	RB
@@ -5578,7 +5578,7 @@ Bout	NNP
 .	.
 
 The	DT
-wikipedia	NN
+wikipedia	JJ
 entry	NN
 for	IN
 Aerocom	NNP
@@ -5666,7 +5666,7 @@ this	DT
 "	JJ
 real	JJ
 morality	NN
-"	NN
+"	:
 when	WRB
 they	PRP
 indescriminately	RB
@@ -6137,7 +6137,7 @@ about	IN
 "	DT
 death	NN
 metal	NN
-"	(
+"	:
 I	PRP
 guess	VBP
 the	DT
@@ -6456,7 +6456,7 @@ To	IN
 hell	NN
 with	IN
 death	NN
-"	NN
+"	)
 .	.
 
 I	PRP
@@ -6806,7 +6806,7 @@ street	NN
 
 The	DT
 German	JJ
-Expressionist	NN
+Expressionist	NNP
 movement	NN
 was	VBD
 destroyed	VBN
@@ -6943,9 +6943,9 @@ they	PRP
 do	VB
 as	IN
 they	PRP
-wilt	JJ
+wilt	MD
 .	.
-"	)
+"	''
 
 A	DT
 question	NN
@@ -7259,9 +7259,9 @@ am	VBP
 ,	,
 therefore	RB
 I	PRP
-think	VB
-"	.
-:)	)
+think	VBP
+"	PRP
+:)	:
 
 Reporting	NNP
 from	IN
@@ -8417,7 +8417,7 @@ from	IN
 Dan	NNP
 Froomkin	NNP
 's	POS
-"	NNP
+"	CC
 White	NNP
 House	NNP
 Briefing	NNP
@@ -8860,7 +8860,7 @@ have	VBP
 .	.
 
 The	DT
-hymn	NN
+hymn	JJ
 talks	NNS
 about	IN
 serving	VBG
@@ -9757,7 +9757,7 @@ operating	NN
 system	NN
 ?	.
 
-[	(
+[	CC
 via	IN
 Microsoft	NNP
 Watch	NNP
@@ -10109,8 +10109,8 @@ a	DT
 small	JJ
 group	NN
 of	IN
-Arab	JJ
-mujahidin	NN
+Arab	NNP
+mujahidin	NNP
 would	MD
 virtually	RB
 take	VB
@@ -12022,8 +12022,8 @@ with	IN
 Hamas	NNP
 ,	,
 "	DT
-Shiite	NNP
-cleric	NNP
+Shiite	JJ
+cleric	JJ
 Muqtada	NNP
 al	NNP
 -	HYPH
@@ -13032,8 +13032,8 @@ in	IN
 Jordan	NNP
 .	.
 
-Secular	NNP
-Arab	NNP
+Secular	JJ
+Arab	JJ
 nationalist	JJ
 groups	NNS
 also	RB
@@ -13657,7 +13657,7 @@ good	JJ
 news	NN
 for	IN
 the	DT
-subcontinent	NN
+subcontinent	JJ
 .	.
 "	)
 
@@ -13715,7 +13715,7 @@ Gore	NNP
 said	VBD
 .	.
 
-"	PRP
+"	CC
 Further	RB
 ,	,
 I	PRP
@@ -15119,8 +15119,8 @@ a	DT
 handful	NN
 of	IN
 Texas	NNP
-multi-millionnaires	NNS
-close	JJ
+multi-millionnaires	NNPS
+close	NN
 to	IN
 the	DT
 Bush	NNP
@@ -15460,7 +15460,7 @@ spring	NN
 ,	,
 killing	VBG
 600	CD
-Iraqis	NN
+Iraqis	NNS
 ,	,
 most	JJS
 of	IN
@@ -15997,7 +15997,7 @@ young	JJ
 woman	NN
 smack	RB
 -	HYPH
-dab	JJ
+dab	VBN
 in	IN
 the	DT
 middle	NN
@@ -17300,12 +17300,12 @@ are	VBP
 being	VBG
 "	PRP
 picked	VBD
-up	RB
-"	VB
+up	RP
+"	DT
 by	IN
-al	JJ
+al	NNP
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 .	.
 
 This	DT
@@ -17357,7 +17357,7 @@ hundred	CD
 "	SYM
 Afghan	NNP
 Arabs	NNPS
-"	NNP
+"	:
 who	WP
 pledged	VBD
 personal	JJ
@@ -18549,7 +18549,7 @@ on	IN
 Fallujah	NNP
 ,	,
 see	VBP
-Unconfirmed	VBN
+Unconfirmed	JJ
 Sources	NNS
 which	WDT
 has	VBZ
@@ -18781,7 +18781,7 @@ al	JJ
 Qaida	NN
 with	IN
 young	JJ
-Muslim	NNP
+Muslim	JJ
 men	NNS
 .	.
 
@@ -20720,9 +20720,9 @@ permanent	JJ
 control	NN
 of	IN
 the	DT
-leading	JJ
+leading	VBG
 edge	NN
-browser	NN
+browser	JJR
 technology	NN
 in	IN
 Firefox	NNP
@@ -20831,9 +20831,9 @@ Mozilla	NNP
 platform	NN
 and	CC
 web	NN
-browsing	NN
+browsing	VBG
 in	IN
-general	NN
+general	JJ
 .	.
 
 He	PRP
@@ -20895,7 +20895,7 @@ Me	PRP
 and	CC
 the	DT
 big	JJ
-"	NN
+"	NNP
 G	NNP
 "	.
 
